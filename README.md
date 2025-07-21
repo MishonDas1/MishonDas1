@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #6A057F;">Hey there! 👋 I'm <a href="https://github.com/mishondas1" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">Mishon Das Arnab</a></h1>
 <h3 align="center" style="color: #4CAF50;">Crafting beautiful user experiences as a <span style="color: #FF5722;">Frontend Developer</span> from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mi&label=Profile%20views&color=0e75b6&style=flat" alt="mi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mi&label=Profile%20views&color=8A2BE2&style=flat-square" alt="Profile views" /> </p>
 
 - 🔭 I’m currently working on **various project**
 
